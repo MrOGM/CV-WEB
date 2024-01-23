@@ -34,7 +34,7 @@ export default function Home() {
                         <div className="flex flex-col mt-6 space-y-3 lg:space-y-0 lg:flex-row">
     
                             <button className="w-full px-4 py-2 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-gray-500 rounded-lg lg:w-auto lg:mx-4 hover:bg-gray-400 focus:outline-none focus:bg-gray-400">
-                            <a href="https://drive.google.com/file/d/16B6SoBbWN2XHeYst60xS151HUJjtWKKa/view?usp=sharing">Download CV</a>
+                            <a href="https://drive.google.com/file/d/1bfdG36YWh17gmi9-WlUFqg57WxGQ2gfo/view?usp=sharing">Download CV</a>
                             </button>
 
                             <button className="w-full px-5 py-2 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-blue-600 rounded-lg lg:w-auto lg:mx-4 hover:bg-blue-500 focus:outline-none focus:bg-blue-500">
