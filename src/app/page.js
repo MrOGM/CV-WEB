@@ -45,7 +45,7 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className="flex items-center justify-center w-full mt-6 lg:mt-0 lg:w-1/2 m-5 pb-4">
+                <div className="flex items-center justify-center w-full mt-6 lg:mt-0 lg:w-1/2 mb-6 pb-4">
                     <Image className="w-full h-full max-w-md" src={auto}alt="email illustration vector art"/>
                 </div>
             </div>
