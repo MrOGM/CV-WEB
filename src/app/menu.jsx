@@ -75,7 +75,7 @@ function NavigationButtons ({}) {
                           <p className="text-lg tracking-wider text-blue-500 uppercase dark:text-blue-400 ">2023-2024</p>
                           <h2 className="mt-2 text-2xl font-semibold text-gray-800 capitalize dark:text-white">PRODUCT ENGINEER</h2>
                           <p className="max-w-5xl mt-6 text-left text-gray-500 dark:text-gray-300 ">
-                            As a Product Engineer at Merchants Metals, my tasks were related to processing the customer's requirements from different locations in the US. 
+                            As a Product Engineer at Merchants Metals, my tasks were related to processing the customer&apos;s requirements from different locations in the US. 
                             </p>
                             <p className="max-w-5xl mt-6 text-left text-gray-500 dark:text-gray-300 px-5">
 
